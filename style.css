@@ -1,0 +1,17 @@
+.Food{
+    font-size:14px;
+    color:black;
+    padding-left: auto;
+    border: 5px solid blue;
+    padding: 10px 35px;
+    text-align: center;
+    background-color: brown;
+}
+
+.List{
+    border: 5px solid blue;
+}
+
+.first-page{
+    background-color: whitesmoke;
+}
